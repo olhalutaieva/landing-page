@@ -1,1 +1,15 @@
-f
+@import "mixins";
+@import "variables";
+
+@import "general/general";
+@import "general/general_main";
+@import "general/general_about_us";
+@import "general/general_delivery";
+@import "general/general_clients";
+@import "general/general_subscription";
+@import "general/general_footer";
+
+@import "media/media_1200";
+@import "media/media_991";
+@import "media/media_768";
+@import "media/media_576";
